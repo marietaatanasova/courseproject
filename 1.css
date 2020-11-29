@@ -1,0 +1,41 @@
+body{background: linear-gradient(to top left, #ffeecc , #ffc34d );margin-bottom:10px;margin-left:10px;margin-right:10px;margin-top:10px;
+ font-family:Monotype Corsiva;letter-spacing: 1px;font-size:22px;}
+header{text-align:center;font-size:40px;background-color:#ff8000;text-transform:uppercase;padding:5px;text-decoration:italic;
+	margin-top: 10px;margin-bottom: 10px;}
+table{width:80%;text-align:justify;margin-left:10px;margin-right:10px;}
+p{color : black;padding-top: 5px;padding-bottom: 5px;padding-right: 5px;padding-left:5px ;}
+button {border: 2px dashed; border-color: #685d50;background: #001433; color :yellow; width: 120px; height: 80px; 
+	margin-left: 350px; margin-top: 25px; text-transform:uppercase;}
+.navbar {  width: 100%; background-color: #000000; overflow: auto;text-align:center;}
+.navbar a {  float:left;  padding: 8px;  color: white;  text-decoration: none;  font-size: 22px;  width: 32%; 
+ text-align: center;}
+.navbar a:hover {  background-color:#e68a00;}
+p.first{border-style:solid;border-bottom-left-radius:35px;padding-left:10px;padding-bottom:10px;padding-right:10px;padding-top:10px;background-color: white;
+text-align: justify;}
+p.second{padding-bottom:10px;padding-left:10px;padding-right:10px;padding-top:10px;border-style:dotted;border-color:black;text-align:justify;
+	background-color: white;text-align: justify;}
+.kompleks{background:linear-gradient(to bottom right, yellow, red);text-align:center;border-style:groove;padding-left:10px;
+	padding-bottom:10px;padding-right:10px;padding-top:10px;border-bottom-left-radius:35px;border-top-right-radius:35px;
+margin-left:30%; margin-right:30%}
+.button {background-color: #e68a00;border: none;color: white;text-align: center;display: inline-block;font-size: 18px;
+	margin: 6px 4px;cursor: pointer;}
+td{padding-left:10px;padding-right:10px;padding-top:10px;padding-bottom:10px;font-size:22px;}
+	img{padding-left:10px;padding-right: 10px;padding-bottom: 10px;padding-top: 10px;}
+	.history{text-align:justify;padding-top: 5px;padding-bottom: 5px;padding-right: 15px;padding-left:15px }
+	aside{margin-left:400px;background-color:white;margin-top: 20px;margin-bottom: 20px;}
+a{color:black; font-size:22px;text-align:center;}
+.f1{color:white;}
+.h {margin-left:20px;font-size:22px;}
+.leftmenu{float:left;margin-left:10px;padding-left: 10px;padding-right: 10px;background: linear-gradient(to top left, #ffeecc , #ffc34d )}
+h4{text-align:center;}
+iframe{display:block;margin-left: auto;margin-right: auto;width:90%;}
+.prev,.next {cursor: pointer;position: absolute;top: 40%;width: auto;padding: 16px;margin-top: -50px;color: white;
+	font-weight: bold;font-size: 20px;border-radius: 0 3px 3px 0;}
+.next { right: 0; border-radius: 3px 0 0 3px;}
+.prev:hover,.next:hover {background-color: rgba(0, 0, 0, 0.8);}
+.caption-container {text-align: center;background-color: white;padding-top: 3px;padding-bottom: 3px;}
+.column {float:left;width: 9.9%;}
+.demo { opacity: 0.6;}
+.active,.demo:hover {  opacity: 1;}
+footer{background-color:#000000;margin-top:20px;color: white; text-align:center;padding: 15px;margin-top:20px}
+	.f{margin-top:100px;}
